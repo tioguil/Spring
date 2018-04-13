@@ -11,7 +11,8 @@ public class HomeController {
 		
 		System.out.println("Home Viu");
 		
-		return "home";
+		return "produto/home";
 	}
+	
 
 }
