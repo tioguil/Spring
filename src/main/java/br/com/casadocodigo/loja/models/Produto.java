@@ -26,6 +26,8 @@ public class Produto {
 	
 	@ElementCollection
 	private List<Preco> precos;
+	
+	private String sumarioPath;
 
 
 }

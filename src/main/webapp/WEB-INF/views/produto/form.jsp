@@ -32,6 +32,11 @@
 					name="precos[${status.index}].tipo" value="${tipoPreco}" />
 			</div>
 		</c:forEach>
+		
+		<div>
+		    <label>Sumário</label>
+		    <input class="form-control"name="sumario" type="file" />
+		</div>
 
 		<button type="submit" class="btn btn-primary">Cadastrar</button>
 	</form>
