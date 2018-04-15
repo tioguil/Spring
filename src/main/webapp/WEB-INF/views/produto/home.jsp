@@ -8,7 +8,7 @@
 <title>Home</title>
 </head>
 <body>
-<h1> Casa do Codigo</h1>
+<h1> Bem Vindo !</h1>
 
 </body>
 </html>
